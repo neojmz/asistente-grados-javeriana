@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Asistente de Grados · Oficina de Protocolo · Pontificia Universidad Javeriana</title>
+  <meta name="description" content="Resuelve tus dudas sobre las ceremonias de grado de la Pontificia Universidad Javeriana.">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <main class="app">
+    <header class="top">
+      <p class="org">Pontificia Universidad Javeriana · Oficina de Protocolo</p>
+      <h1>Asistente de ceremonias de grado</h1>
+      <p class="lead">Pregúntame por fechas, horarios, lugar, requisitos e invitados. Respondo solo con información oficial de la Universidad.</p>
+    </header>
+
+    <section id="chat" class="chat" aria-live="polite" aria-label="Conversación"></section>
+
+    <div id="suggestions" class="suggestions" aria-label="Preguntas frecuentes"></div>
+
+    <form id="form" class="composer" autocomplete="off">
+      <label for="input" class="sr">Escribe tu pregunta</label>
+      <textarea id="input" rows="1" maxlength="500" placeholder="Escribe tu pregunta sobre la ceremonia de grado"></textarea>
+      <button type="submit" id="send">Enviar</button>
+    </form>
+
+    <footer class="foot">
+      Este asistente usa inteligencia artificial y puede equivocarse. No ingreses datos personales sensibles.
+      Para casos particulares, escribe a la <a id="contact" href="#">Oficina de Protocolo</a>.
+    </footer>
+  </main>
+  <script src="js/config.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
