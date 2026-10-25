@@ -76,12 +76,14 @@
       contents: turns.map((t) => ({ role: t.role, parts: [{ text: t.text }] })),
       generationConfig: { temperature: C.TEMPERATURE, maxOutputTokens: C.MAX_OUTPUT_TOKENS }
     };
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/${C.MODEL}:generateContent`;
-    const r = await fetch(url, {
-      method: "POST",
-      headers: { "Content-Type": "application/json", "x-goog-api-key": C.API_KEY },
-      body: JSON.stringify(body)
-    });
+    // Con PROXY_URL (recomendado al publicar) la clave vive en el Worker, no en la página.
+    const useProxy = Boolean(C.PROXY_URL);
+    const url = useProxy
+      ? C.PROXY_URL
+      : `https://generativelanguage.googleapis.com/v1beta/models/${C.MODEL}:generateContent`;
+    const headers = { "Content-Type": "application/json" };
+    if (!useProxy) headers["x-goog-api-key"] = C.API_KEY;
+    const r = await fetch(url, { method: "POST", headers, body: JSON.stringify(body) });
     if (r.status === 429) throw new Error("rate");
     if (!r.ok) throw new Error("http " + r.status);
     const data = await r.json();

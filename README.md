@@ -20,11 +20,13 @@ knowledge/                  Base de conocimiento oficial: ceremonias, requisitos
 5. Publica: sube el repo a GitHub → Settings → Pages → Deploy from branch → `main` / root.
 6. Genera el código QR con la URL `https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/`.
 
-## Seguridad de la clave (prototipo)
-La clave queda visible en el navegador. Para el prototipo, en Google Cloud Console → Credenciales:
-- Restringe la clave por **referrers HTTP** a `https://TU-USUARIO.github.io/*`.
-- Limita la API a **Generative Language API**.
-Para producción, mueve la llamada a un proxy (Cloudflare Workers, Cloud Functions) que guarde la clave.
+## Seguridad de la clave: usar un Cloudflare Worker
+GitHub bloquea las claves dentro de los archivos y Google puede desactivar una clave expuesta, así que la clave NO va en el repositorio.
+1. Crea una cuenta gratis en https://dash.cloudflare.com y entra a **Workers & Pages** → **Create** → **Hello World** → **Deploy**.
+2. Pulsa **Edit code**, borra el contenido y pega `worker/worker.js`. Verifica que `ALLOWED_ORIGINS` tenga tu dominio de GitHub Pages. **Deploy**.
+3. En el Worker: **Settings** → **Variables and Secrets** → **Add** → tipo **Secret**, nombre `GEMINI_API_KEY`, valor tu clave. **Deploy**.
+4. Copia la dirección del Worker (termina en `.workers.dev`) y pégala en `PROXY_URL` de `js/config.js`. Sube ese cambio a GitHub.
+5. Para probar en tu computador sin Worker, deja `PROXY_URL` vacío y pega tu clave en `API_KEY`, sin subir ese archivo.
 
 ## Privacidad
 - El repositorio público no debe incluir información interna ni datos personales de graduandos.

@@ -1,13 +1,15 @@
 // Configuración del agente. Edita solo este archivo.
 window.AGENT_CONFIG = {
-  // Clave gratuita de Google AI Studio (https://aistudio.google.com/apikey).
-  // IMPORTANTE: al ir en el front-end, queda visible. En Google Cloud Console
-  // restríngela por "referrer HTTP" a tu dominio de GitHub Pages
-  // (https://TU-USUARIO.github.io/*) y limita la API a "Generative Language API".
+  // PUBLICADO EN GITHUB: deja API_KEY con el texto de ejemplo y escribe la dirección de tu Worker.
+  // El Worker (carpeta worker/) guarda la clave real; así no queda expuesta en el repositorio.
+  PROXY_URL: "https://asistente-grados.alexjimenez5.workers.dev",   // ej.: "https://asistente-grados.TU-SUBDOMINIO.workers.dev"
+
+  // SOLO PARA PROBAR EN TU COMPUTADOR (sin Worker): pega aquí tu clave de https://aistudio.google.com/apikey
+  // NUNCA subas este archivo a GitHub con la clave pegada.
   API_KEY: "PEGA_AQUI_TU_API_KEY",
 
-  // Verifica en la documentación de Gemini que el modelo siga disponible en el plan gratuito.
-  MODEL: "gemini-2.5-flash",
+  // Los modelos cambian: si ves error 404, copia el nombre vigente desde Google AI Studio (Get code).
+  MODEL: "gemini-3.1-flash-lite",
 
   TEMPERATURE: 0.2,        // baja = respuestas más fieles a la base de conocimiento
   MAX_HISTORY_TURNS: 6,    // turnos previos enviados al modelo
