@@ -4,7 +4,7 @@
 La ceremonia institucional es el **viernes 20 de noviembre de 2026** en el coliseo del Centro Javeriano de Formación Deportiva. El horario depende de tu facultad: **8:00 a.m.** o **11:00 a.m.** (ver listas en la base de conocimiento). Si no sabes tu facultad o no aparece en las listas, escala. [F2]
 
 ## ¿Cuántos invitados puedo llevar?
-Tres acompañantes por graduando, personales e intransferibles. Los menores de edad cuentan dentro de esos tres cupos. Con doble título siguen siendo tres. [F2]
+Tres acompañantes por graduando, personales e intransferibles. Los menores de edad cuentan dentro de esos tres cupos, salvo los bebés menores de 3 años (de brazos), que no necesitan registro. Con doble título siguen siendo tres. [F2][F6]
 
 ## ¿Cómo registro a mis acompañantes?
 No hay tarjetas impresas. La Oficina de Protocolo envía a tu correo el martes 17 de noviembre de 2026 un enlace para registrarlos. Ese registro es el único medio de ingreso. [F2]
@@ -22,7 +22,7 @@ Aproximadamente 90 minutos. [F2]
 Tú y tus acompañantes deben presentar documento de identificación al personal de seguridad en la puerta nororiental del coliseo. [F2]
 
 ## ¿Puedo llevar niños?
-Sí, pero ocupan uno de los tres cupos y deben registrarse. Se sugiere no llevar niños menores de 5 años. [F2]
+Sí, pero ocupan uno de los tres cupos y deben registrarse. Se sugiere no llevar niños menores de 5 años. Los bebés menores de 3 años (de brazos) no necesitan registro. [F2][F6]
 
 ## ¿Se pueden comprar boletas o cupos extra?
 No. La Universidad no avala la venta ni compra de boletas y no hay sillas adicionales. Puede tratarse de estafas. [F2]
@@ -94,10 +94,10 @@ No hay ensayo presencial. Llega una hora antes y el equipo de apoyo te indica tu
 La preside el Rector con Vicerrectores, Secretario General y Decanos. Los diplomas los entregan los Decanos de cada facultad. [F4]
 
 ## Si no puedo asistir, ¿alguien puede recibir mi diploma en la ceremonia?
-Sí. Envía una comunicación escrita a protocolo@javeriana.edu.co una semana antes de la ceremonia, con copia de tu documento de identidad y el de la persona que lo reclamará. [F4]
+Sí. Un familiar mayor de edad y de primer grado (padre, madre, hermanos o esposo) puede recibirlo y ocupar tu lugar. Debes enviar una carta desde tu correo institucional a protocolo@javeriana.edu.co una semana antes de la ceremonia (para el 20 de noviembre de 2026: 13 de noviembre), con el motivo, tus datos y los del familiar, el parentesco y copia de ambos documentos de identidad por los dos lados. La ceremonia se transmite por streaming y te proclaman aunque no estés. [F6]
 
 ## ¿Dónde reclamo mis documentos si no asistí?
-En la Oficina de Admisiones y Registro Académico (Edificio Jorge Hoyos Vásquez S.J., Carrera 7 # 40B-36, primer piso), desde el día hábil siguiente a la ceremonia. Atiende de lunes a viernes de 8:00 a.m. a 1:00 p.m. y de 2:00 p.m. a 5:00 p.m. Para que un tercero los retire, escribe a autorizar@javeriana.edu.co con ambos documentos de identidad y tu autorización. [F4]
+En la Oficina de Admisiones y Registro Académico (Edificio Jorge Hoyos Vásquez S.J., Carrera 7 # 40B-36, piso 0), desde el día hábil siguiente a la ceremonia. Atiende de lunes a viernes de 8:00 a.m. a 12:00 m. y de 2:00 p.m. a 5:00 p.m. Para que un tercero los retire, escribe a autorizar@javeriana.edu.co con la carta de autorización firmada y los documentos de identidad de ambos. [F6]
 
 ## ¿Los profesores de mi facultad pueden asistir?
 Sí. Tienen ubicación especial en el coliseo y el Secretario de Facultad los registra. [F4]
@@ -107,3 +107,18 @@ El 24 de octubre de 2026. El pago de los derechos de grado queda registrado como
 
 ## ¿Cuál es la fecha máxima de pago de los derechos de grado para otras fechas de 2026?
 Grado del 28 de enero: 17 de diciembre de 2025. 12 de marzo: 13 de febrero. 22 de mayo: 25 de abril. 29 de julio: 2 de julio. 10 de septiembre: 13 de agosto. 20 de noviembre: 24 de octubre. [F5]
+
+## ¿Puedo llevar una mascota de apoyo emocional a la ceremonia?
+Sí, el Secretario General autorizó su ingreso con condiciones: identificación visible, certificación de un médico de salud mental en carta membretada, certificado de inspección sanitaria de un veterinario con matrícula profesional, copia del carné de vacunación, y correa y bozal durante el acto. Escribe a protocolo@javeriana.edu.co para gestionar tu caso. [F6]
+
+## Un invitado mío tiene movilidad reducida. ¿Qué hago?
+Avisa lo antes posible a protocolo@javeriana.edu.co. En ceremonias anteriores se habilitaron las entradas vehiculares (bahía sur o norte), hay brigadistas y, a la entrada del coliseo, personal de emergencia que puede facilitar una silla de ruedas. Los invitados deben estar registrados en el enlace y llegar con tiempo. La Oficina confirma los detalles de cada ceremonia. [F6]
+
+## ¿Cómo puedo dar el discurso de los graduandos?
+La facultad que habla se elige de forma rotativa. Si le corresponde a tu facultad, el decano o la decana decide qué graduando habla. No hay postulación ante la Oficina de Protocolo. [F6]
+
+## ¿Qué es la credencial digital?
+Es la insignia digital con la que la Universidad envía el título, el acta de grado, los certificados de énfasis y las distinciones el día del grado. Se usa para todos los trámites. [F6]
+
+## ¿Puedo llevar a mi bebé de brazos a la ceremonia?
+Sí, será bienvenido. Aplica a bebés menores de 3 años. No necesitas registrarlo. Debe estar siempre acompañado de una persona mayor de edad y no puede estar en la zona donde se ubican los graduandos. Se recomienda que tú y tus invitados ingresen al coliseo por la plaza de banderas. Por ser un evento público y masivo, la Universidad no sugiere llevar menores de 5 años. [F6]

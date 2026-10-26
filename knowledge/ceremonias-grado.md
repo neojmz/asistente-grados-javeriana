@@ -61,7 +61,7 @@ El calendario también está en la web de la Universidad: Intranet > Guía Proce
 ## Invitados y acompañantes [F2]
 - Cada graduando tiene **tres cupos** para acompañantes. Son personales e intransferibles y no hay sillas adicionales.
 - Quien obtiene dos títulos por doble programa **no** duplica los cupos: sigue teniendo tres.
-- Los menores de edad ocupan uno de los tres cupos y se registran como los demás asistentes.
+- Los menores de edad ocupan uno de los tres cupos y se registran como los demás asistentes. **Excepción:** los bebés menores de 3 años (de brazos) no necesitan registro; ver "Bebés menores de 3 años" en el archivo de casos especiales [F6].
 - Se sugiere no llevar niños menores de 5 años por la duración y por tratarse de un evento masivo.
 - No hay tarjetas impresas. El ingreso se hace solo con el registro de acompañantes que hace el graduando en un enlace que la Oficina de Protocolo envía a su correo el **martes 17 de noviembre de 2026**.
 - La Universidad no avala la venta ni compra de boletas; advierte que pueden ser estafas.
@@ -107,8 +107,8 @@ Los paz y salvos y requisitos del proceso de grado están en el archivo requisit
 - **Quién entrega el diploma:** los Decanos de cada facultad.
 - **Ingreso:** por plataforma electrónica. El graduando porta su documento de identificación y se presenta con sus invitados; es deseable que ingresen todos al mismo tiempo.
 - **Profesores y directivos:** quienes deseen asistir tienen ubicación especial en el coliseo. El Secretario de Facultad los registra en la plataforma de la Universidad.
-- **Si no puedes asistir por fuerza mayor y quieres que otra persona reciba el diploma:** envía una comunicación escrita a protocolo@javeriana.edu.co **una semana antes** de la ceremonia, con copia de los documentos de identidad del graduando y de la persona que reclamará el diploma.
-- **Si no asistes y quieres reclamar tus documentos después:** Oficina de Admisiones y Registro Académico, Edificio Jorge Hoyos Vásquez S.J., Carrera 7 # 40B-36, primer piso, desde el día hábil siguiente a la ceremonia. Horario: lunes a viernes, 8:00 a.m. a 1:00 p.m. y 2:00 p.m. a 5:00 p.m. Para autorizar a un tercero: correo a autorizar@javeriana.edu.co con el documento de identidad propio y el de la persona autorizada, expresando la autorización.
+- **Si no puedes asistir y quieres que un familiar reciba el diploma en la ceremonia:** ver "Si no puedo asistir" en el archivo de casos especiales [F6]. El plazo es **una semana antes** de la ceremonia (para el 20 de noviembre de 2026: 13 de noviembre de 2026), por correo institucional a protocolo@javeriana.edu.co.
+- **Si no asistes y quieres reclamar tus documentos después:** Oficina de Admisiones y Registro Académico, Edificio Jorge Hoyos Vásquez S.J., Carrera 7 # 40B-36, **piso 0**, desde el día hábil siguiente a la ceremonia. Horario: lunes a viernes, 8:00 a.m. a 12:00 m. y 2:00 p.m. a 5:00 p.m. [F6]. Para autorizar a un tercero: correo a autorizar@javeriana.edu.co con la carta de autorización firmada y los documentos de identidad del titular y del autorizado.
 - **Documentos oficiales digitales:** el diploma y el acta de grado digitales, con la insignia digital, se envían el día de la graduación al correo institucional y al celular registrado como preferido en el SIU.
 
 ## Contacto oficial [F2]
